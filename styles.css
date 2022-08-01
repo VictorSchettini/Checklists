@@ -4,6 +4,7 @@ body {
 img{
     width: 100px;
     height: 100px;
+    margin-top: 50px;
 }
 .grid-container{
     display: inline-grid;

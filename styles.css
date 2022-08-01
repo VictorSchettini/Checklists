@@ -7,7 +7,7 @@ img{
 }
 .grid-container{
     display: inline-grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto;
 }
 .grid-item{
     padding: 10px 20px;

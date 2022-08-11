@@ -1,0 +1,42 @@
+form{
+    text-align: center;
+}
+input{
+     width:  60%;
+     height:  20px;
+     text-align: center;
+}
+.option{
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    text-align: center;
+}
+.options{
+    display: inline-grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+}
+.optionss{
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+}
+.option1{
+    padding: 10px 10px;
+}
+input[type=radio]{
+    border: 0px;
+    width: 20px;
+    height: 20px;
+}
+.option1{
+    padding: 10px 10px;
+}
+#button{
+    width: 200px;
+    height: 50px;
+}
+input[type=decimal]{
+    width: 200px;
+    height: 20px;
+}
+
